@@ -9,7 +9,7 @@ import UIKit
 import SwiftUI
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
-
+    var addedFromSecondaryBranch = true
     var window: UIWindow?
 
 
